@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.0.0'
-#ruby-gemset=ruby_2_0_0
+#ruby-gemset=first_app_gems
 
 gem 'rails', '4.0.0'
 
